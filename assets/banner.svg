@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="humanize-skills — strip AI tells across 20 languages, 10 modes, 7 tones">
+  <rect width="1200" height="630" fill="#F4F5F1"/>
+  <rect x="0" y="0" width="14" height="630" fill="#B6412C"/>
+  <rect x="34" y="34" width="1132" height="562" fill="none" stroke="#C7C7BB" stroke-width="2"/>
+
+  <text x="80" y="130" font-family="ui-monospace, 'Courier New', monospace" font-size="24" letter-spacing="4" fill="#B6412C">PROMPT-ONLY SKILL &#183; CC-BY-4.0</text>
+  <text x="76" y="225" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-weight="bold" fill="#1B1D1A">humanize-skills</text>
+  <text x="80" y="292" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-style="italic" fill="#4B4E48">Strip AI tells: 20 languages &#215; 10 modes &#215; 7 tones.</text>
+
+  <g font-family="-apple-system, 'Segoe UI', Verdana, sans-serif" font-size="26" fill="#1B1D1A">
+    <rect x="80" y="340" width="218" height="52" rx="26" fill="#F0DAD1" stroke="#E1BBAA" stroke-width="2"/>
+    <text x="189" y="375" text-anchor="middle">20 languages</text>
+    <rect x="312" y="340" width="170" height="52" rx="26" fill="#F0DAD1" stroke="#E1BBAA" stroke-width="2"/>
+    <text x="397" y="375" text-anchor="middle">10 modes</text>
+    <rect x="496" y="340" width="150" height="52" rx="26" fill="#F0DAD1" stroke="#E1BBAA" stroke-width="2"/>
+    <text x="571" y="375" text-anchor="middle">7 tones</text>
+    <rect x="660" y="340" width="150" height="52" rx="26" fill="#DEEBE1" stroke="#3E6B4F" stroke-width="2"/>
+    <text x="735" y="375" text-anchor="middle">0 deps</text>
+  </g>
+
+  <rect x="80" y="440" width="770" height="88" rx="10" fill="#1B1D1A"/>
+  <text x="112" y="495" font-family="ui-monospace, 'Courier New', monospace" font-size="25" fill="#FFF7F3">$ npx skills add gencharitaci/humanize-skills</text>
+
+  <g fill="#1B1D1A" opacity="0.9">
+    <rect x="940" y="120" width="186" height="16" rx="8"/>
+    <rect x="940" y="152" width="108" height="16" rx="8"/>
+    <rect x="940" y="188" width="162" height="16" rx="8"/>
+    <rect x="940" y="224" width="72" height="16" rx="8" fill="#B6412C"/>
+    <rect x="940" y="260" width="186" height="16" rx="8"/>
+    <rect x="940" y="296" width="120" height="16" rx="8"/>
+    <rect x="940" y="332" width="171" height="16" rx="8" fill="#B6412C"/>
+    <rect x="940" y="368" width="81" height="16" rx="8"/>
+    <rect x="940" y="404" width="144" height="16" rx="8"/>
+    <rect x="940" y="440" width="99" height="16" rx="8" fill="#B6412C"/>
+    <rect x="940" y="476" width="180" height="16" rx="8"/>
+  </g>
+  <text x="940" y="530" font-family="ui-monospace, 'Courier New', monospace" font-size="22" fill="#726C64">rhythm first.</text>
+
+  <text x="80" y="580" font-family="-apple-system, 'Segoe UI', Verdana, sans-serif" font-size="24" fill="#726C64">&#169; Adem Kurtipek &#183; no-edit gate &#183; fact-lock &#183; blind-tested</text>
+</svg>

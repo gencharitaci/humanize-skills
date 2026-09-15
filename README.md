@@ -1,5 +1,7 @@
 # humanize-skills
 
+![humanize-skills — strip AI tells across 20 languages × 10 modes × 7 tones](assets/banner.svg)
+
 An AI-writing-style skill that strips the clichés, filler phrases, and formulaic
 structures catalogued in Wikipedia's "Signs of AI writing" guide — and the
 discourse-level tells that survive a vocabulary edit — out of anything an AI
