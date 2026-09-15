@@ -1,0 +1,7 @@
+# OS / editor cruft — this repo is plain Markdown, nothing to build
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
